@@ -5,5 +5,5 @@ Neste notebook o objetivo foi realizar a previsão de vendas da empresa Rossmann
 Foi utilizado a metodologia CRISP-DS para o desenvolvimento deste projeto que consiste nos seguintes passos conforme figura abaixo:
 
 
-<img align="right" width="400" height="400" src="https://drive.google.com/file/d/1Rx9eTzuGTWlmaOGIAVKfsNcxYPZaW7XO/view?usp=sharing">
+<img align="right" width="1000" height="600" src="https://img1.wsimg.com/isteam/ip/b8b02fee-4345-4577-9a87-00153d078373/teste2-0001.png/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1534.5px,cg:true">
 
