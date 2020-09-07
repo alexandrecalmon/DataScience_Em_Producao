@@ -5,7 +5,6 @@
 
 
 
-
 O objetivo deste projeto, foi realizar a **previsão de vendas** da empresa **Rossmann** para as **próximas 6 semanas** e realizar o deploy no **Heroku** com uma **API no Telegram**.
 
 Foi utilizado a metodologia **CRISP-DS** para o desenvolvimento deste projeto. Este método consiste nos seguintes passos conforme figura abaixo:
