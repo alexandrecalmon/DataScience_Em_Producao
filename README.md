@@ -2,7 +2,9 @@
 
 <img align="right" width="1000" height="600" src="https://img1.wsimg.com/isteam/ip/b8b02fee-4345-4577-9a87-00153d078373/001-0001.jpg/:/rs=w:1534.5px,cg:true,m">
 
-
+&nbsp;
+&ensp;
+&emsp;
 
 
 O objetivo deste projeto, foi realizar a **previsão de vendas** da empresa **Rossmann** para as **próximas 6 semanas** e realizar o deploy no **Heroku** com uma **API no Telegram**.
