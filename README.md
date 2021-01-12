@@ -6,6 +6,14 @@
 &ensp;
 &emsp;
 
+**Qual a Motivação?**
+
+- A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.
+
+**Qual a Causa Raiz do Problema?**
+
+- Dificuldade em determinar o valor do investimento para reformas de cada loja.
+
 
 O objetivo deste projeto, foi realizar a **previsão de vendas** da empresa **Rossmann** para as **próximas 6 semanas** e realizar o deploy no **Heroku** com uma **API no Telegram**.
 
