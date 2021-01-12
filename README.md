@@ -6,6 +6,8 @@
 &ensp;
 &emsp;
 
+**Rossmann** opera mais de 3.000 drogarias em 7 países europeus. Atualmente, os gerentes de loja da Rossmann têm a tarefa de prever suas vendas diárias com até seis semanas de antecedência. As vendas da loja são influenciadas por muitos fatores, incluindo promoções, competição, feriados escolares e estaduais, sazonalidade e localidade. Com milhares de gerentes individuais prevendo vendas com base em suas circunstâncias únicas, a precisão dos resultados pode variar bastante, por isso o desafio foi criado no Kaggle para se criar um moledo que possa automatizar a previsão das vendas de suas lojas para as próximas 6 semanas.
+
 **Qual a Motivação?**
 
 - A previsão de vendas foi requisitada pelo CFO em uma reunião mensal sobre os resultados das lojas.
@@ -14,8 +16,18 @@
 
 - Dificuldade em determinar o valor do investimento para reformas de cada loja.
 
+**Quem é o dono do problema?**
 
-O objetivo deste projeto, foi realizar a **previsão de vendas** da empresa **Rossmann** para as **próximas 6 semanas** e realizar o deploy no **Heroku** com uma **API no Telegram**.
+- Diretor Financeiro (CFO) da Rossmann.
+
+**Qual o formato da solução?**
+
+- **Granularidade:** Previsão de vendas por dias das lojas para os próximos 42 dias, 6 semana.
+- **Tipo de Problema:** Previsão de Vendas.
+- **Potenciais Métodos:** Séries Temporais
+- **Formato de Entrega:** O valor de previsão das vendas de todas as lojas serão apresentadas através de uma **API no Telegram**.
+ 
+
 
 Foi utilizado a metodologia **CRISP-DS** para o desenvolvimento deste projeto. Este método consiste nos seguintes passos conforme figura abaixo:
 
